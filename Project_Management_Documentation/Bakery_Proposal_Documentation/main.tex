@@ -1,0 +1,38 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{cite}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=black,
+}
+
+\title{Bakery | Encrypted Mail Client}
+\author{Jim Kelly writing for Breadbank Studios}
+
+\begin{document}
+\maketitle
+\vspace{40pt}
+\section*{Abstract}
+	\noindent `Bakery' is a multi-platform desktop application mail client that has been designed and developed to demonstrate the capabilities of the authors, regarding their software development practices and further their understanding of JavaScript, encryption, and user interface \& user experience (UI/UX) design practices. This document houses the referenced projects, project design documentation, and the tools and software that will be used for this project.\\
+	\newline
+	\noindent In short summary the mail client will follow the basic structure of a mail client by fetching user emails via a given email account, i.e. Google, Outlook, etc, alongside having the capacity to send emails from the account or accounts that the application is provided access to. Additional functionality comes in the form of end-to-end encryption (E2EE) between users sending emails through the client. This is to be achieved by public and private key infrastructure, the details of this process are to be confirmed at a later date.\\
+	\newline
+	\noindent Regarding the technologies used for this project the primary language to be used in the construction of the application is JavaScript, primarily through React-Native and Electron. This includes potentially `Storybook'\cite{storybooks} for UI component development. Any later additional technologies implemented in the development of this project will be documented here.
+\pagebreak
+\tableofcontents
+\pagebreak
+\section{Introduction}
+\lipsum[1]
+\section{Project Specifications}
+\subsection{Similar Projects in Development}
+\lipsum[1]
+\pagebreak
+\bibliographystyle{IEEEtran}
+\bibliography{main}
+
+\end{document}
