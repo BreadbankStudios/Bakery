@@ -34,4 +34,12 @@ B.~Brandall, ``The 6 most secure email services and the security measures they
   \url{https://zapier.com/blog/secure-email/}
 \BIBentrySTDinterwordspacing
 
+\bibitem{encryptionStrength}
+\BIBentryALTinterwordspacing
+T.~Leek, ``How long would it take to bruteforce an aes-128 protected pdf
+  knowing the key is 20 letter long and that the charset is a-z,0-9?'' 2014.
+  [Online]. Available:
+  \url{https://security.stackexchange.com/questions/61346/how-long-would-it-take-to-bruteforce-an-aes-128-protected-pdf-knowing-the-key-is}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
