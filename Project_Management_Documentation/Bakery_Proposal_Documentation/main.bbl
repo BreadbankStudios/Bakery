@@ -27,4 +27,11 @@ Storybook, ``Storybook: Ui component explorer for frontend developers,'' 2020.
   [Online]. Available: \url{https://storybook.js.org/}
 \BIBentrySTDinterwordspacing
 
+\bibitem{zapierSecure}
+\BIBentryALTinterwordspacing
+B.~Brandall, ``The 6 most secure email services and the security measures they
+  practice,'' 2019. [Online]. Available:
+  \url{https://zapier.com/blog/secure-email/}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
