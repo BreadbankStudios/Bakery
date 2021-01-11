@@ -1,4 +1,5 @@
 const { app, BrowserWindow } = require("electron");
+const path = require("path");
 const { createAuthWindow } = require('./main/auth-process');
 const createAppWindow = require('./main/app-process');
 const authService = require('./services/auth-service');
@@ -21,6 +22,8 @@ const loadMainWindow = () => {
             nodeIntegration: true
         }
     });
+
+    mainWindow.loadFile(path.join(__dirname, "home.js"))
 }
 
 // Invoke when application loaded
