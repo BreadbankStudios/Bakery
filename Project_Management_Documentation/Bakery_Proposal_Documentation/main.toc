@@ -3,9 +3,9 @@
 \contentsline {subsection}{\numberline {2.1}Similar Projects in Development}{4}{subsection.2.1}% 
 \contentsline {subsection}{\numberline {2.2}Electron: Open Source Framework}{4}{subsection.2.2}% 
 \contentsline {subsection}{\numberline {2.3}Public \& Private Key Infrastructure}{4}{subsection.2.3}% 
-\contentsline {section}{\numberline {3}Project Planning}{5}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Work Breakdown Structure (WBS)}{6}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Sequence Diagram}{7}{subsection.3.2}% 
-\contentsline {subsection}{\numberline {3.3}Component Diagram}{8}{subsection.3.3}% 
-\contentsline {subsection}{\numberline {3.4}Class Diagram}{9}{subsection.3.4}% 
-\contentsline {subsection}{\numberline {3.5}Deployment Diagram}{10}{subsection.3.5}% 
+\contentsline {section}{\numberline {3}Project Planning}{6}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Work Breakdown Structure (WBS)}{7}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Sequence Diagram}{8}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Component Diagram}{9}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Class Diagram}{10}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Deployment Diagram}{11}{subsection.3.5}% 

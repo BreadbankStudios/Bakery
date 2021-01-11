@@ -42,4 +42,16 @@ T.~Leek, ``How long would it take to bruteforce an aes-128 protected pdf
   \url{https://security.stackexchange.com/questions/61346/how-long-would-it-take-to-bruteforce-an-aes-128-protected-pdf-knowing-the-key-is}
 \BIBentrySTDinterwordspacing
 
+\bibitem{ElectronMail}
+\BIBentryALTinterwordspacing
+V.~Yakovlev, ``Electronmail | unofficial desktop client for protonmail,'' 2020.
+  [Online]. Available: \url{https://github.com/vladimiry/ElectronMail}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Mailspring}
+\BIBentryALTinterwordspacing
+Foundry376, ``Mailspring: A new version of nylas mail,'' 2021. [Online].
+  Available: \url{https://github.com/Foundry376/Mailspring}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
